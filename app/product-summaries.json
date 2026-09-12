@@ -12588,5 +12588,667 @@
     "badge": "All-in-One",
     "featured": false,
     "priority": 301
+  },
+  {
+    "id": "MD-storz-spies-4k-system-th120",
+    "name": "منظومة مناظير KARL STORZ IMAGE1 S SPIES 4K مع رأس TH120",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-SPIES-4K-TH120",
+    "image": "/product-images/official-imaging/storz-image1-s-4u-link-tc304.webp",
+    "imageFit": "contain",
+    "imageCount": 5,
+    "description": "منظومة تصوير مناظير SPIES 4K متكاملة تجمع وحدة CONNECT II ووحدة 4U-LINK ورأس الكاميرا TH120 مع مصدر الإضاءة POWER LED 300 وشاشة طبية 4K.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "منصة التحكم",
+        "IMAGE1 S CONNECT II TC201"
+      ],
+      [
+        "وحدة 4K",
+        "IMAGE1 S 4U-LINK TC304"
+      ],
+      [
+        "رأس الكاميرا",
+        "IMAGE1 S 4U TH120"
+      ],
+      [
+        "مصدر الإضاءة",
+        "POWER LED 300 TL300"
+      ],
+      [
+        "الشاشة",
+        "Medical 4K Monitor"
+      ],
+      [
+        "تقنيات الصورة",
+        "4K UHD / SPIES visualization"
+      ]
+    ],
+    "badge": "SPIES 4K Complete System",
+    "featured": true,
+    "priority": 302
+  },
+  {
+    "id": "MD-storz-spies-4k-rubina-system-th121",
+    "name": "منظومة مناظير KARL STORZ IMAGE1 S SPIES 4K Rubina مع رأس TH121",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-SPIES-4K-RUBINA-TH121",
+    "image": "/product-images/official-imaging/storz-image1-s-rubina-th121.webp",
+    "imageFit": "contain",
+    "imageCount": 5,
+    "description": "منظومة SPIES 4K Rubina للتصوير بالضوء الأبيض والتصوير الفلوري NIR/ICG، وتضم رأس TH121 ووحدتي TC201 وTC304 ومصدر POWER LED Rubina TL400 وشاشة 4K.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "منصة التحكم",
+        "IMAGE1 S CONNECT II TC201"
+      ],
+      [
+        "وحدة 4K",
+        "IMAGE1 S 4U-LINK TC304"
+      ],
+      [
+        "رأس الكاميرا",
+        "IMAGE1 S 4U Rubina TH121"
+      ],
+      [
+        "مصدر الإضاءة",
+        "POWER LED Rubina TL400"
+      ],
+      [
+        "الشاشة",
+        "Medical 4K Monitor"
+      ],
+      [
+        "تقنيات الصورة",
+        "4K UHD / SPIES / NIR-ICG"
+      ]
+    ],
+    "badge": "4K Rubina NIR/ICG",
+    "featured": true,
+    "priority": 303
+  },
+  {
+    "id": "SI-storz-nephroscope-mip-xs-s-27820ka",
+    "name": "منظار كلى KARL STORZ MIP XS/S 27820KA",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-27820KA",
+    "image": "/product-images/official-imaging/storz-nephroscope-mip-xs-s-27820ka.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار كلى صلب دقيق لمنظومة MIP XS/S مع نقل إضاءة بالألياف الضوئية وقناة ري، قابل للتعقيم بالأوتوكلاف.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "27820KA"
+      ],
+      [
+        "طول العمل",
+        "24 cm"
+      ],
+      [
+        "الطرف البعيد",
+        "7.5 Fr"
+      ],
+      [
+        "قناة العمل",
+        "2 Fr"
+      ],
+      [
+        "قناة الري",
+        "3 Fr"
+      ],
+      [
+        "التعقيم",
+        "Autoclavable"
+      ]
+    ],
+    "badge": "Nephroscope 7.5 Fr",
+    "priority": 304
+  },
+  {
+    "id": "SI-storz-nephroscope-mip-m-27830ka",
+    "name": "منظار كلى KARL STORZ MIP M 27830KA",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-27830KA",
+    "image": "/product-images/official-imaging/storz-nephroscope-mip-m-27830ka.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار كلى صلب MIP M للعمل عبر الجلد، مزود بألياف ضوئية وقناة عمل مناسبة للأدوات حتى 5 Fr وقابل للأوتوكلاف.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "27830KA"
+      ],
+      [
+        "طول العمل",
+        "22 cm"
+      ],
+      [
+        "الطرف البعيد",
+        "12 Fr"
+      ],
+      [
+        "قناة العمل",
+        "6.7 Fr"
+      ],
+      [
+        "الأدوات",
+        "حتى 5 Fr"
+      ],
+      [
+        "التعقيم",
+        "Autoclavable"
+      ]
+    ],
+    "badge": "Nephroscope 12 Fr",
+    "priority": 305
+  },
+  {
+    "id": "SI-storz-nephroscope-mip-l-27840kak",
+    "name": "طقم منظار كلى KARL STORZ MIP L 27840KAK",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-27840KAK",
+    "image": "/product-images/official-imaging/storz-nephroscope-mip-l-27840kak.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "طقم منظار كلى MIP L بقناة عمل كبيرة للاستخدام مع الأدوات الصلبة ومجسات تفتيت الحصوات، وقابل للتعقيم بالأوتوكلاف.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "27840KAK"
+      ],
+      [
+        "طول العمل",
+        "22 cm"
+      ],
+      [
+        "زاوية الرؤية",
+        "12°"
+      ],
+      [
+        "الطرف البعيد",
+        "19.5 Fr"
+      ],
+      [
+        "قناة العمل",
+        "12.4 Fr"
+      ],
+      [
+        "الأدوات",
+        "حتى 11.5 Fr"
+      ]
+    ],
+    "badge": "Nephroscope Set 19.5 Fr",
+    "priority": 306
+  },
+  {
+    "id": "SI-storz-flex-xc1-091271-06",
+    "name": "منظار حالب وكلى فيديو أحادي الاستخدام KARL STORZ FLEX-XC1 091271-06",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-091271-06",
+    "image": "/product-images/official-imaging/storz-flex-xc1-091271-06.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار حالب وكلى فيديو مرن ومعقم للاستخدام مرة واحدة، بإضاءة مدمجة وإمكانية دمجه مع منظومة IMAGE1 S.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "091271-06"
+      ],
+      [
+        "الانحراف",
+        "270° / 270°"
+      ],
+      [
+        "قطر الغلاف",
+        "9 Fr"
+      ],
+      [
+        "قناة العمل",
+        "3.5 Fr"
+      ],
+      [
+        "طول العمل",
+        "70 cm"
+      ],
+      [
+        "مجال الرؤية",
+        "105°"
+      ],
+      [
+        "الاستخدام",
+        "Single use — Sterile"
+      ]
+    ],
+    "badge": "Single-use Video Ureteroscope",
+    "priority": 307
+  },
+  {
+    "id": "SI-storz-flex-x2s-11278ak1",
+    "name": "طقم منظار حالب وكلى مرن KARL STORZ FLEX-X2S 11278AK1",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-11278AK1",
+    "image": "/product-images/official-imaging/storz-flex-x2s-11278ak1.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار حالب وكلى مرن فايبر بقابلية انحراف مزدوجة للوصول إلى الكؤيسات الكلوية والمناطق صعبة الوصول.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "11278AK1"
+      ],
+      [
+        "الانحراف",
+        "270° / 270°"
+      ],
+      [
+        "قطر الغلاف",
+        "7.5 Fr"
+      ],
+      [
+        "قناة العمل",
+        "3.6 Fr"
+      ],
+      [
+        "طول العمل",
+        "67 cm"
+      ],
+      [
+        "نقل الصورة",
+        "Fiber"
+      ],
+      [
+        "مجال الرؤية",
+        "88°"
+      ]
+    ],
+    "badge": "Flexible Fiberscope",
+    "priority": 308
+  },
+  {
+    "id": "SI-storz-flex-xc-11278vsu",
+    "name": "منظار حالب وكلى فيديو مرن KARL STORZ FLEX-XC 11278VSU",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-STORZ-11278VSU",
+    "image": "/product-images/official-imaging/storz-flex-xc-11278vsu.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار حالب وكلى فيديو مرن قابل لإعادة الاستخدام، بإضاءة مدمجة ومتوافق مع IMAGE1 S X-LINK TC301 ووحدات TC200/TC201.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "المرجع",
+        "11278VSU"
+      ],
+      [
+        "الانحراف",
+        "270° / 270°"
+      ],
+      [
+        "قطر الغلاف",
+        "8.5 Fr"
+      ],
+      [
+        "قناة العمل",
+        "3.6 Fr"
+      ],
+      [
+        "طول العمل",
+        "70 cm"
+      ],
+      [
+        "مجال الرؤية",
+        "105°"
+      ],
+      [
+        "التوافق",
+        "TC301 + TC200 / TC201"
+      ]
+    ],
+    "badge": "Reusable Video Ureteroscope",
+    "priority": 309
+  },
+  {
+    "id": "SI-reda-cystoscope-29-0-r300-029302-000",
+    "name": "منظار مثانة REDA 2.9 mm بزاوية 0°",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R300-029302-000",
+    "image": "/product-images/official-imaging/reda-cystoscope-29mm.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار مثانة REDA بطول عمل 302 مم وألياف ضوئية مدمجة للإضاءة، قابل للتعقيم بالأوتوكلاف.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R300-029302-000"
+      ],
+      [
+        "القطر",
+        "2.9 mm"
+      ],
+      [
+        "زاوية الرؤية",
+        "0°"
+      ],
+      [
+        "طول العمل",
+        "302 mm"
+      ],
+      [
+        "الإضاءة",
+        "Integrated fiberoptic"
+      ],
+      [
+        "التعقيم",
+        "Autoclavable"
+      ]
+    ],
+    "badge": "REDA Urology",
+    "priority": 310
+  },
+  {
+    "id": "SI-reda-cystoscope-29-30-r300-029302-030",
+    "name": "منظار مثانة REDA 2.9 mm بزاوية 30°",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R300-029302-030",
+    "image": "/product-images/official-imaging/reda-cystoscope-29mm.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار مثانة REDA بزاوية 30° وطول عمل 302 مم مع ألياف إضاءة مدمجة، قابل للأوتوكلاف.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R300-029302-030"
+      ],
+      [
+        "القطر",
+        "2.9 mm"
+      ],
+      [
+        "زاوية الرؤية",
+        "30°"
+      ],
+      [
+        "طول العمل",
+        "302 mm"
+      ],
+      [
+        "الإضاءة",
+        "Integrated fiberoptic"
+      ],
+      [
+        "التعقيم",
+        "Autoclavable"
+      ]
+    ],
+    "badge": "REDA Urology",
+    "priority": 311
+  },
+  {
+    "id": "SI-reda-cystoscopy-sheath-15fr-r310-150235-001",
+    "name": "غلاف منظار مثانة REDA 15 Fr مع Obturator",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R310-150235-001",
+    "image": "/product-images/official-imaging/reda-cystoscopy-sheath-15fr.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "غلاف منظار مثانة REDA مقاس 15 Fr مع Obturator وصمامي إيقاف ثابتين بموصلات Luer-Lock.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R310-150235-001"
+      ],
+      [
+        "المقاس",
+        "15 Fr"
+      ],
+      [
+        "المكونات",
+        "Sheath + Obturator"
+      ],
+      [
+        "الصمامات",
+        "2 fixed stop cocks"
+      ],
+      [
+        "الموصل",
+        "LL adapter"
+      ]
+    ],
+    "badge": "Cystoscopy Sheath",
+    "priority": 312
+  },
+  {
+    "id": "SI-reda-diagnostic-bridge-r310-029000-000",
+    "name": "جسر منظار تشخيصي REDA R310-029000-000",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R310-029000-000",
+    "image": "/product-images/official-imaging/reda-diagnostic-telescope-bridge.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "جسر منظار مباشر من REDA لإجراءات تشخيص المثانة، مصمم للتركيب مع منظومة المنظار والغلاف المتوافق.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R310-029000-000"
+      ],
+      [
+        "النوع",
+        "Diagnostic telescope bridge"
+      ],
+      [
+        "التخصص",
+        "Cystoscopy"
+      ]
+    ],
+    "badge": "Telescope Bridge",
+    "priority": 313
+  },
+  {
+    "id": "SI-reda-working-element-r320-027225-12",
+    "name": "عنصر تشغيل منظار قطع REDA مفتوح R320-027225-12",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R320-027225-12",
+    "image": "/product-images/official-imaging/reda-resectoscope-working-element-open.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "عنصر تشغيل نشط بمقبض مفتوح لمنظار قطع REDA، يعمل بالضغط بالإصبع ومخصص لعدسة قطر 2.9 مم.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R320-027225-12"
+      ],
+      [
+        "نوع الحركة",
+        "Active — finger action"
+      ],
+      [
+        "المقبض",
+        "Opened handle"
+      ],
+      [
+        "مقاس العدسة",
+        "2.9 mm"
+      ]
+    ],
+    "badge": "Resectoscope Element",
+    "priority": 314
+  },
+  {
+    "id": "SI-reda-resectoscope-sheath-22fr-r320-220000-130",
+    "name": "غلاف منظار قطع REDA تدفق مستمر 22 Fr دوّار",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R320-220000-130",
+    "image": "/product-images/official-imaging/reda-resectoscope-sheath-22fr.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "غلاف خارجي دوّار لمنظار القطع REDA بنظام تدفق مستمر وصمام ري ثابت مع موصل Luer-Lock.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R320-220000-130"
+      ],
+      [
+        "المقاس",
+        "22 Fr"
+      ],
+      [
+        "النوع",
+        "Outer sheath"
+      ],
+      [
+        "التدفق",
+        "Continuous flow"
+      ],
+      [
+        "الدوران",
+        "Rotatable"
+      ],
+      [
+        "الصمام",
+        "1 irrigation stop cock"
+      ]
+    ],
+    "badge": "Continuous Flow",
+    "priority": 315
+  },
+  {
+    "id": "SI-reda-urethrotome-sheath-r330-155201-01",
+    "name": "غلاف Urethrotome REDA 15.5 Fr بقناة جانبية",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R330-155201-01",
+    "image": "/product-images/official-imaging/reda-urethrotome-sheath-155fr.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "غلاف Urethrotome مدرّج من REDA مقاس 15.5 Fr مزود بقناة جانبية للأدوات مقاس 3 Fr.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R330-155201-01"
+      ],
+      [
+        "المقاس",
+        "15.5 Fr"
+      ],
+      [
+        "القناة الجانبية",
+        "للأدوات 3 Fr"
+      ],
+      [
+        "النوع",
+        "Graduated urethrotome sheath"
+      ]
+    ],
+    "badge": "Urethrotomy",
+    "priority": 316
+  },
+  {
+    "id": "SI-reda-urethrotome-bridge-r339-029000-001",
+    "name": "جسر منظار Urethrotome REDA بقناة عمل 3 Fr",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-REDA-R339-029000-001",
+    "image": "/product-images/official-imaging/reda-urethrotome-telescope-bridge.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "جسر منظار REDA لمنظومة Urethrotome مزود بقناة عمل قطرها 3 Fr لاستخدام الأدوات المتوافقة.",
+    "specs": [
+      [
+        "الماركة",
+        "REDA"
+      ],
+      [
+        "المرجع",
+        "R339-029000-001"
+      ],
+      [
+        "النوع",
+        "Telescope bridge"
+      ],
+      [
+        "قناة العمل",
+        "3 Fr"
+      ],
+      [
+        "التخصص",
+        "Urethrotomy"
+      ]
+    ],
+    "badge": "Urethrotomy Bridge",
+    "priority": 317
   }
 ]
