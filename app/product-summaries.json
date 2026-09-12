@@ -11853,5 +11853,740 @@
     "featured": false,
     "priority": 284,
     "accuracy": "يصدر التكوين والمواصفات النهائية بعد تحديد الحركات والملحقات المطلوبة."
+  },
+  {
+    "id": "MD-stryker-1088-hd-camera-system",
+    "name": "نظام كاميرا Stryker 1088 HD",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STRYKER-1088-HD",
+    "image": "/product-images/official-imaging/stryker-1088-hd.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "نظام تصوير منظاري عالي الدقة من أجيال Stryker السابقة، يضم وحدة تحكم ورأس كاميرا ويُستخدم في تطبيقات الجراحة طفيفة التوغل متعددة التخصصات.",
+    "specs": [
+      [
+        "الماركة",
+        "Stryker"
+      ],
+      [
+        "الموديل",
+        "1088 HD"
+      ],
+      [
+        "النوع",
+        "Endoscopic Camera System"
+      ],
+      [
+        "الحالة",
+        "جيل سابق ومتوقف لدى الشركة المصنّعة"
+      ],
+      [
+        "الاستخدامات",
+        "المناظير والجراحات طفيفة التوغل"
+      ]
+    ],
+    "badge": "جيل سابق",
+    "featured": false,
+    "priority": 285,
+    "accuracy": "تؤكد صفحة Stryker الرسمية لتسلسل أجيال التصوير أن 1088 HD من الأجيال السابقة المتوقفة؛ التوافر يكون وفق حالة المخزون أو التجديد."
+  },
+  {
+    "id": "MD-stryker-1788-4k-aim-camera-system",
+    "name": "نظام كاميرا Stryker 1788 4K AIM",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STRYKER-1788-4K-AIM",
+    "image": "/product-images/official-imaging/stryker-1788-platform.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منصة تصوير جراحي 4K متعددة التخصصات تجمع التصوير بالضوء الأبيض وتقنيات AIM والتصوير الفلوري لتحسين إظهار الأنسجة والتروية والتشريح الحرج.",
+    "specs": [
+      [
+        "الماركة",
+        "Stryker"
+      ],
+      [
+        "الموديل",
+        "1788 Platform"
+      ],
+      [
+        "الدقة",
+        "4K"
+      ],
+      [
+        "مرجع وحدة التحكم",
+        "1788-010-000 / 1788010000"
+      ],
+      [
+        "مرجع رأس الكاميرا",
+        "1788-210-105 / 1788210105"
+      ],
+      [
+        "التصوير",
+        "White Light + SPY Contrast/Overlay/ENV/CSF"
+      ],
+      [
+        "مصدر الإضاءة المتوافق",
+        "Stryker L12"
+      ]
+    ],
+    "badge": "أحدث جيل",
+    "featured": false,
+    "priority": 286,
+    "accuracy": "البيانات والمراجع مأخوذة من صفحة 1788 وسجل براءات منتجات المناظير الرسميين لدى Stryker."
+  },
+  {
+    "id": "MD-stryker-l12-led-light-source",
+    "name": "مصدر إضاءة Stryker L12 LED مع AIM",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STRYKER-L12",
+    "image": "/product-images/official-imaging/stryker-l12-light-source.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مصدر إضاءة LED لمنصة Stryker 1788 مع تقنية Safelight والتحكم المحسن في الإضاءة ودعم أوضاع التصوير المتقدمة ضمن سلسلة AIM.",
+    "specs": [
+      [
+        "الماركة",
+        "Stryker"
+      ],
+      [
+        "الموديل",
+        "L12"
+      ],
+      [
+        "النوع",
+        "LED Light Source with AIM"
+      ],
+      [
+        "المرجع",
+        "0220240300"
+      ],
+      [
+        "التوافق",
+        "Stryker 1788 Platform"
+      ],
+      [
+        "التحكم",
+        "Safelight + Auto-light"
+      ]
+    ],
+    "badge": "1788 Platform",
+    "featured": false,
+    "priority": 287,
+    "accuracy": "الموديل والمرجع والتوافق موثقون في صفحة 1788 وسجل منتجات Endoscopy الرسميين لدى Stryker."
+  },
+  {
+    "id": "MD-storz-image1-s-connect-tc200",
+    "name": "وحدة KARL STORZ IMAGE1 S CONNECT TC200",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TC200",
+    "image": "/product-images/official-imaging/storz-image1-s-connect-tc200.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة الربط والمعالجة الأساسية لمنصة IMAGE1 S بدقة FULL HD، تدعم توصيل ما يصل إلى ثلاث وحدات LINK وتضم معالجة الصور واتصال SCB.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S CONNECT"
+      ],
+      [
+        "المرجع",
+        "TC200"
+      ],
+      [
+        "الدقة",
+        "1920 × 1080"
+      ],
+      [
+        "وحدات LINK",
+        "حتى 3 وحدات"
+      ],
+      [
+        "الطاقة",
+        "100–120 / 200–240 VAC، 50/60 Hz"
+      ]
+    ],
+    "badge": "IMAGE1 S",
+    "featured": false,
+    "priority": 288
+  },
+  {
+    "id": "MD-storz-image1-s-connect-ii-tc201",
+    "name": "وحدة KARL STORZ IMAGE1 S CONNECT II TC201",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TC201",
+    "image": "/product-images/official-imaging/storz-image1-s-connect-ii-tc201.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة التحكم المركزية الحديثة لمنصة IMAGE1 S، تدعم 4K وتوصيل ثلاث وحدات LINK والتوثيق الرقمي وتقنيات تحسين تمييز الأنسجة.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S CONNECT II"
+      ],
+      [
+        "المرجع",
+        "TC201"
+      ],
+      [
+        "أقصى خرج",
+        "3840 × 2160"
+      ],
+      [
+        "مداخل LINK",
+        "3"
+      ],
+      [
+        "المخارج",
+        "DisplayPort 1.2، 12G-SDI، 3G-SDI، DVI-D"
+      ],
+      [
+        "تقنيات S",
+        "CLARA، CHROMA، SPECTRA A/B"
+      ]
+    ],
+    "badge": "4K",
+    "featured": false,
+    "priority": 289
+  },
+  {
+    "id": "MD-storz-image1-s-h3-link-tc300",
+    "name": "وحدة KARL STORZ IMAGE1 S H3-LINK TC300",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TC300",
+    "image": "/product-images/official-imaging/storz-image1-s-h3-link-tc300.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة LINK مخصصة لرؤوس كاميرا IMAGE1 ثلاثية الشرائح FULL HD، وتعمل مع وحدة IMAGE1 S CONNECT TC200.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S H3-LINK"
+      ],
+      [
+        "المرجع",
+        "TC300"
+      ],
+      [
+        "التوافق",
+        "IMAGE1 FULL HD three-chip camera heads"
+      ],
+      [
+        "المنظومة",
+        "IMAGE1 S CONNECT TC200"
+      ]
+    ],
+    "badge": "FULL HD",
+    "featured": false,
+    "priority": 290
+  },
+  {
+    "id": "MD-storz-image1-s-x-link-tc301",
+    "name": "وحدة KARL STORZ IMAGE1 S X-LINK TC301",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TC301",
+    "image": "/product-images/official-imaging/storz-image1-s-x-link-tc301.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة ربط للمناظير الصلبة والمرنة، متوافقة مع رؤوس IMAGE1 S HX ومع مناظير الفيديو المرنة من KARL STORZ.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S X-LINK"
+      ],
+      [
+        "المرجع",
+        "TC301"
+      ],
+      [
+        "مخارج LINK",
+        "1"
+      ],
+      [
+        "القدرة",
+        "80 VA"
+      ],
+      [
+        "الأبعاد",
+        "305 × 54 × 320 mm"
+      ],
+      [
+        "الوزن",
+        "1.86 kg"
+      ]
+    ],
+    "badge": "Rigid & Flexible",
+    "featured": false,
+    "priority": 291
+  },
+  {
+    "id": "MD-storz-image1-s-4u-link-tc304",
+    "name": "وحدة KARL STORZ IMAGE1 S 4U-LINK TC304",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TC304",
+    "image": "/product-images/official-imaging/storz-image1-s-4u-link-tc304.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة LINK لمناظير 4K و4K/3D، متوافقة مع رؤوس IMAGE1 S 4U وRubina ومع TIPCAM1 Rubina والتصوير الفلوري NIR/ICG.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S 4U-LINK"
+      ],
+      [
+        "المرجع",
+        "TC304"
+      ],
+      [
+        "الدقة",
+        "4K / 4K 3D"
+      ],
+      [
+        "التصوير الفلوري",
+        "NIR/ICG مع منظومة Rubina"
+      ],
+      [
+        "القدرة",
+        "86 VA"
+      ],
+      [
+        "الأبعاد",
+        "305 × 54 × 320 mm"
+      ]
+    ],
+    "badge": "4K / 3D",
+    "featured": false,
+    "priority": 292
+  },
+  {
+    "id": "MD-storz-image1-s-hx-th110",
+    "name": "رأس كاميرا KARL STORZ IMAGE1 S HX TH110",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TH110",
+    "image": "/product-images/official-imaging/storz-image1-s-hx-th110.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "رأس كاميرا FULL HD خفيف ومريح للمناظير الصلبة، مزود بتكبير رقمي ومتوافق مع IMAGE1 S X-LINK.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S HX"
+      ],
+      [
+        "المرجع",
+        "TH110"
+      ],
+      [
+        "الدقة",
+        "1920 × 1080"
+      ],
+      [
+        "الاتصال",
+        "X-Line"
+      ],
+      [
+        "التكبير",
+        "2× Digital Zoom"
+      ],
+      [
+        "الوزن",
+        "130 g"
+      ]
+    ],
+    "badge": "FULL HD",
+    "featured": false,
+    "priority": 293
+  },
+  {
+    "id": "MD-storz-image1-s-hx-fi-th112",
+    "name": "رأس كاميرا KARL STORZ IMAGE1 S HX FI TH112",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TH112",
+    "image": "/product-images/official-imaging/storz-image1-s-hx-fi-th112.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "رأس كاميرا FULL HD للتصوير بالضوء الأبيض وBlue Light Imaging، يدعم تقنيات CHROMA وSPECTRA ويتوافق مع X-LINK.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S HX FI"
+      ],
+      [
+        "المرجع",
+        "TH112"
+      ],
+      [
+        "الدقة",
+        "1920 × 1080"
+      ],
+      [
+        "التصوير الفلوري",
+        "BLI"
+      ],
+      [
+        "تقنيات S",
+        "CHROMA، SPECTRA A/B"
+      ],
+      [
+        "الوزن",
+        "130 g"
+      ]
+    ],
+    "badge": "Blue Light",
+    "featured": false,
+    "priority": 294
+  },
+  {
+    "id": "MD-storz-image1-s-hx-p-fi-th113",
+    "name": "رأس كاميرا KARL STORZ IMAGE1 S HX-P FI TH113",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TH113",
+    "image": "/product-images/official-imaging/storz-image1-s-hx-p-fi-th113.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "الإصدار ذو نظام العدسة المتأرجحة من رأس HX FI، مخصص للتصوير FULL HD بالضوء الأبيض وBLI مع تصميم مريح وخفيف.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S HX-P FI"
+      ],
+      [
+        "المرجع",
+        "TH113"
+      ],
+      [
+        "الدقة",
+        "1920 × 1080"
+      ],
+      [
+        "العدسة",
+        "Pendulum System"
+      ],
+      [
+        "التصوير الفلوري",
+        "BLI"
+      ],
+      [
+        "الوزن",
+        "142 g"
+      ]
+    ],
+    "badge": "Pendulum BLI",
+    "featured": false,
+    "priority": 295
+  },
+  {
+    "id": "MD-storz-image1-s-4u-th120",
+    "name": "رأس كاميرا KARL STORZ IMAGE1 S 4U TH120",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TH120",
+    "image": "/product-images/official-imaging/storz-image1-s-4u-th120.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "رأس كاميرا 4K لمنصة IMAGE1 S بمدى لوني موسع وتكبير رقمي حتى 3×، متوافق مع وحدة 4U-LINK TC304.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S 4U"
+      ],
+      [
+        "المرجع",
+        "TH120"
+      ],
+      [
+        "الدقة",
+        "3840 × 2160"
+      ],
+      [
+        "الاتصال",
+        "4U-Line"
+      ],
+      [
+        "التكبير",
+        "3× Digital Zoom"
+      ],
+      [
+        "الوزن",
+        "210 g"
+      ]
+    ],
+    "badge": "4K",
+    "featured": false,
+    "priority": 296
+  },
+  {
+    "id": "MD-storz-image1-s-rubina-th121",
+    "name": "رأس كاميرا KARL STORZ IMAGE1 S 4U Rubina TH121",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TH121",
+    "image": "/product-images/official-imaging/storz-image1-s-rubina-th121.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "رأس كاميرا 4K ثنائي المستشعر للتصوير بالضوء الأبيض وNIR/ICG، يدعم أوضاع Overlay وMonochromatic وIntensity Map.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "IMAGE1 S 4U Rubina"
+      ],
+      [
+        "المرجع",
+        "TH121"
+      ],
+      [
+        "الدقة",
+        "3840 × 2160"
+      ],
+      [
+        "المستشعرات",
+        "2 CMOS"
+      ],
+      [
+        "التصوير الفلوري",
+        "NIR/ICG مع Power LED Rubina"
+      ],
+      [
+        "الوزن",
+        "260 g"
+      ]
+    ],
+    "badge": "4K NIR/ICG",
+    "featured": false,
+    "priority": 297
+  },
+  {
+    "id": "MD-storz-power-led-rubina-tl400",
+    "name": "مصدر إضاءة KARL STORZ POWER LED Rubina TL400",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TL400",
+    "image": "/product-images/official-imaging/storz-power-led-rubina-tl400.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مصدر ضوء LED بارد يعمل دون ليزر للضوء الأبيض واستثارة NIR/ICG، ومصمم للعمل مع منظومة IMAGE1 S Rubina.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "POWER LED Rubina"
+      ],
+      [
+        "المرجع",
+        "TL400"
+      ],
+      [
+        "تقنية الإضاءة",
+        "LED"
+      ],
+      [
+        "العمر التشغيلي",
+        "30,000 ساعة على الأقل"
+      ],
+      [
+        "حرارة اللون",
+        "حوالي 5700 K"
+      ],
+      [
+        "التصوير",
+        "White Light + NIR/ICG"
+      ]
+    ],
+    "badge": "NIR/ICG",
+    "featured": false,
+    "priority": 298
+  },
+  {
+    "id": "MD-storz-power-led-saphira-tl410",
+    "name": "مصدر إضاءة KARL STORZ POWER LED Saphira TL410",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TL410",
+    "image": "/product-images/official-imaging/storz-power-led-saphira-tl410.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مصدر إضاءة LED للضوء الأبيض وBlue Light Imaging، يضم واجهة لمس ويعمل مع منظومة IMAGE1 S Saphira لتطبيقات المسالك البولية.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "POWER LED Saphira"
+      ],
+      [
+        "المرجع",
+        "TL410"
+      ],
+      [
+        "تقنية الإضاءة",
+        "White LED + Blue LED"
+      ],
+      [
+        "العمر التشغيلي",
+        "30,000 ساعة على الأقل"
+      ],
+      [
+        "حرارة اللون",
+        "حوالي 5700 K"
+      ],
+      [
+        "التصوير",
+        "White Light + BLI"
+      ]
+    ],
+    "badge": "Blue Light",
+    "featured": false,
+    "priority": 299
+  },
+  {
+    "id": "MD-storz-tipcam1-rubina-26606aca",
+    "name": "منظار فيديو KARL STORZ TIPCAM1 Rubina 0° 26606ACA",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-26606ACA",
+    "image": "/product-images/official-imaging/storz-tipcam1-rubina-26606aca.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منظار فيديو متكامل يجمع 4K و3D والتصوير الفلوري NIR/ICG مع تحكم تلقائي في الأفق، ومخصص لمنظومة Rubina.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "TIPCAM1 Rubina"
+      ],
+      [
+        "المرجع",
+        "26606ACA"
+      ],
+      [
+        "الدقة",
+        "4K"
+      ],
+      [
+        "زاوية الرؤية",
+        "0°"
+      ],
+      [
+        "القطر",
+        "10.3 mm"
+      ],
+      [
+        "طول العمل",
+        "317 mm"
+      ],
+      [
+        "التصوير",
+        "2D / 3D / NIR-ICG"
+      ]
+    ],
+    "badge": "4K 3D NIR/ICG",
+    "featured": false,
+    "priority": 300
+  },
+  {
+    "id": "MD-storz-tele-pack-plus-tp101",
+    "name": "وحدة مناظير KARL STORZ TELE PACK+ TP101",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-STORZ-TP101",
+    "image": "/product-images/official-imaging/storz-tele-pack-plus-tp101.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة مناظير محمولة متكاملة تضم شاشة لمس FULL HD ومصدر LED ووحدة تحكم كاميرا وتوثيق داخلي وعبر USB والشبكة.",
+    "specs": [
+      [
+        "الماركة",
+        "KARL STORZ"
+      ],
+      [
+        "الموديل",
+        "TELE PACK+"
+      ],
+      [
+        "المرجع",
+        "TP101"
+      ],
+      [
+        "الشاشة",
+        "18.5 بوصة FULL HD Touch"
+      ],
+      [
+        "الدقة",
+        "1920 × 1080"
+      ],
+      [
+        "الإضاءة",
+        "LED مدمجة، 5700 K"
+      ],
+      [
+        "مداخل الكاميرا",
+        "2 — X-Line وC-Line"
+      ],
+      [
+        "التخزين",
+        "داخلي / USB / شبكة"
+      ]
+    ],
+    "badge": "All-in-One",
+    "featured": false,
+    "priority": 301
   }
 ]
