@@ -13250,5 +13250,1345 @@
     ],
     "badge": "Urethrotomy Bridge",
     "priority": 317
+  },
+  {
+    "id": "SI-ligasure-hook-lf5637",
+    "name": "أداة Medtronic LigaSure Retractable L-Hook 37 cm LF5637",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-LIGASURE-LF5637",
+    "image": "/product-display/d9ec5acbe2e8ae.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "أداة غلق وقطع بالمنظار تجمع تقنية LigaSure ثنائية القطب مع خطاف L أحادي القطب قابل للسحب، للأوعية حتى 7 مم.",
+    "specs": [
+      [
+        "الماركة",
+        "Medtronic / Covidien"
+      ],
+      [
+        "الكود",
+        "LF5637"
+      ],
+      [
+        "الطول",
+        "37 cm"
+      ],
+      [
+        "دوران الساق",
+        "315°"
+      ],
+      [
+        "الفك",
+        "Maryland"
+      ],
+      [
+        "طول الغلق",
+        "20 mm"
+      ],
+      [
+        "طول القطع",
+        "18.5 mm"
+      ],
+      [
+        "التوافق",
+        "ForceTriad / Valleylab FT10"
+      ]
+    ],
+    "badge": "LigaSure L-Hook",
+    "featured": false,
+    "priority": 318
+  },
+  {
+    "id": "SI-ligasure-hook-lf5644",
+    "name": "أداة Medtronic LigaSure Retractable L-Hook 44 cm LF5644",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-LIGASURE-LF5644",
+    "image": "/product-display/d9ec5acbe2e8ae.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "أداة غلق وقطع بالمنظار تجمع تقنية LigaSure ثنائية القطب مع خطاف L أحادي القطب قابل للسحب، للأوعية حتى 7 مم.",
+    "specs": [
+      [
+        "الماركة",
+        "Medtronic / Covidien"
+      ],
+      [
+        "الكود",
+        "LF5644"
+      ],
+      [
+        "الطول",
+        "44 cm"
+      ],
+      [
+        "دوران الساق",
+        "315°"
+      ],
+      [
+        "الفك",
+        "Maryland"
+      ],
+      [
+        "طول الغلق",
+        "20 mm"
+      ],
+      [
+        "طول القطع",
+        "18.5 mm"
+      ],
+      [
+        "التوافق",
+        "ForceTriad / Valleylab FT10"
+      ]
+    ],
+    "badge": "LigaSure L-Hook",
+    "featured": false,
+    "priority": 319
+  },
+  {
+    "id": "SI-ligasure-thoracic-lf1930t",
+    "name": "أداة Medtronic LigaSure Maryland Thoracic LF1930T",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-LIGASURE-LF1930T",
+    "image": "/product-display/d9ec5acbe2e8ae.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "أداة LigaSure مخصصة للجراحة الصدرية المفتوحة والمنظار بفك Maryland وطلاء نانوي غير لاصق.",
+    "specs": [
+      [
+        "الماركة",
+        "Medtronic / Covidien"
+      ],
+      [
+        "الكود",
+        "LF1930T"
+      ],
+      [
+        "الطول",
+        "30 cm"
+      ],
+      [
+        "قطر الساق",
+        "5 mm"
+      ],
+      [
+        "الدوران",
+        "350°"
+      ],
+      [
+        "طول الغلق / القطع",
+        "20.3 / 18.5 mm"
+      ],
+      [
+        "التوافق",
+        "Valleylab FT10"
+      ]
+    ],
+    "badge": "Thoracic Nano-Coated",
+    "featured": false,
+    "priority": 320
+  },
+  {
+    "id": "SI-ligasure-curved-jaw-lf3225",
+    "name": "Medtronic LigaSure Curved Jaw الأداة أحادية الاستخدام LF3225",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-LIGASURE-LF3225",
+    "image": "/product-display/bf3b079212f9e5.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "حل LigaSure للجراحة المفتوحة بفك منحني وغلق للأوعية حتى 7 مم، ضمن نظام شبه قابل لإعادة الاستخدام.",
+    "specs": [
+      [
+        "الماركة",
+        "Medtronic / Covidien"
+      ],
+      [
+        "الكود",
+        "LF3225"
+      ],
+      [
+        "التكوين",
+        "Single-use device"
+      ],
+      [
+        "انحناء الفك",
+        "34°"
+      ],
+      [
+        "طول الفك",
+        "25 mm"
+      ],
+      [
+        "طول الغلق / القطع",
+        "24 / 22 mm"
+      ],
+      [
+        "طول الأداة",
+        "25 cm"
+      ],
+      [
+        "التوافق",
+        "ForceTriad / FT10 / LS10"
+      ]
+    ],
+    "badge": "Curved Jaw",
+    "featured": false,
+    "priority": 321
+  },
+  {
+    "id": "SI-ligasure-curved-jaw-lf3225c",
+    "name": "Medtronic LigaSure Curved Jaw الكلامب القابل لإعادة الاستخدام LF3225C",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-LIGASURE-LF3225C",
+    "image": "/product-display/bf3b079212f9e5.webp",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "حل LigaSure للجراحة المفتوحة بفك منحني وغلق للأوعية حتى 7 مم، ضمن نظام شبه قابل لإعادة الاستخدام.",
+    "specs": [
+      [
+        "الماركة",
+        "Medtronic / Covidien"
+      ],
+      [
+        "الكود",
+        "LF3225C"
+      ],
+      [
+        "التكوين",
+        "Reusable clamp"
+      ],
+      [
+        "انحناء الفك",
+        "34°"
+      ],
+      [
+        "طول الفك",
+        "25 mm"
+      ],
+      [
+        "طول الغلق / القطع",
+        "24 / 22 mm"
+      ],
+      [
+        "طول الأداة",
+        "25 cm"
+      ],
+      [
+        "التوافق",
+        "ForceTriad / FT10 / LS10"
+      ]
+    ],
+    "badge": "Curved Jaw",
+    "featured": false,
+    "priority": 322
+  },
+  {
+    "id": "SI-ethicon-harmonic-har1120",
+    "name": "Ethicon HARMONIC 1100 Shears HAR1120",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR1120",
+    "image": "/product-images/official-energy/ethicon-har1120.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR1120"
+      ],
+      [
+        "العائلة",
+        "HARMONIC 1100 Shears"
+      ],
+      [
+        "الطول",
+        "20 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 323
+  },
+  {
+    "id": "SI-ethicon-harmonic-har1136",
+    "name": "Ethicon HARMONIC 1100 Shears HAR1136",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR1136",
+    "image": "/product-images/official-energy/ethicon-har1136.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR1136"
+      ],
+      [
+        "العائلة",
+        "HARMONIC 1100 Shears"
+      ],
+      [
+        "الطول",
+        "36 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 324
+  },
+  {
+    "id": "SI-ethicon-harmonic-harhd20",
+    "name": "Ethicon HARMONIC HD 1000i Shears HARHD20",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HARHD20",
+    "image": "/product-images/official-energy/ethicon-harhd20.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HARHD20"
+      ],
+      [
+        "العائلة",
+        "HARMONIC HD 1000i Shears"
+      ],
+      [
+        "الطول",
+        "20 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 325
+  },
+  {
+    "id": "SI-ethicon-harmonic-harhd36",
+    "name": "Ethicon HARMONIC HD 1000i Shears HARHD36",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HARHD36",
+    "image": "/product-images/official-energy/ethicon-harhd36.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HARHD36"
+      ],
+      [
+        "العائلة",
+        "HARMONIC HD 1000i Shears"
+      ],
+      [
+        "الطول",
+        "36 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 326
+  },
+  {
+    "id": "SI-ethicon-harmonic-har9f",
+    "name": "Ethicon HARMONIC FOCUS+ Shears HAR9F",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR9F",
+    "image": "/product-images/official-energy/ethicon-har9f.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR9F"
+      ],
+      [
+        "العائلة",
+        "HARMONIC FOCUS+ Shears"
+      ],
+      [
+        "الطول",
+        "9 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 327
+  },
+  {
+    "id": "SI-ethicon-harmonic-har17f",
+    "name": "Ethicon HARMONIC FOCUS+ Long Shears HAR17F",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR17F",
+    "image": "/product-images/official-energy/ethicon-har17f.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic shears — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR17F"
+      ],
+      [
+        "العائلة",
+        "HARMONIC FOCUS+ Long Shears"
+      ],
+      [
+        "الطول",
+        "17 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic shears — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 328
+  },
+  {
+    "id": "SI-ethicon-harmonic-har23",
+    "name": "Ethicon HARMONIC ACE+ Shears HAR23",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR23",
+    "image": "/product-images/official-energy/ethicon-har23.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Adaptive Tissue Technology.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR23"
+      ],
+      [
+        "العائلة",
+        "HARMONIC ACE+ Shears"
+      ],
+      [
+        "الطول",
+        "23 cm"
+      ],
+      [
+        "النوع",
+        "Adaptive Tissue Technology"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 329
+  },
+  {
+    "id": "SI-ethicon-harmonic-har36",
+    "name": "Ethicon HARMONIC ACE+ Shears HAR36",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HAR36",
+    "image": "/product-images/official-energy/ethicon-har36.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Adaptive Tissue Technology.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HAR36"
+      ],
+      [
+        "العائلة",
+        "HARMONIC ACE+ Shears"
+      ],
+      [
+        "الطول",
+        "36 cm"
+      ],
+      [
+        "النوع",
+        "Adaptive Tissue Technology"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 330
+  },
+  {
+    "id": "SI-ethicon-harmonic-harh23",
+    "name": "Ethicon HARMONIC ACE+7 Shears HARH23",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HARH23",
+    "image": "/product-images/official-energy/ethicon-harh23.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Advanced Hemostasis.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HARH23"
+      ],
+      [
+        "العائلة",
+        "HARMONIC ACE+7 Shears"
+      ],
+      [
+        "الطول",
+        "23 cm"
+      ],
+      [
+        "النوع",
+        "Advanced Hemostasis"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 331
+  },
+  {
+    "id": "SI-ethicon-harmonic-harh36",
+    "name": "Ethicon HARMONIC ACE+7 Shears HARH36",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HARH36",
+    "image": "/product-images/official-energy/ethicon-harh36.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Advanced Hemostasis.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HARH36"
+      ],
+      [
+        "العائلة",
+        "HARMONIC ACE+7 Shears"
+      ],
+      [
+        "الطول",
+        "36 cm"
+      ],
+      [
+        "النوع",
+        "Advanced Hemostasis"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 332
+  },
+  {
+    "id": "SI-ethicon-harmonic-harh45",
+    "name": "Ethicon HARMONIC ACE+7 Shears HARH45",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HARH45",
+    "image": "/product-images/official-energy/ethicon-harh45.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Advanced Hemostasis.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HARH45"
+      ],
+      [
+        "العائلة",
+        "HARMONIC ACE+7 Shears"
+      ],
+      [
+        "الطول",
+        "45 cm"
+      ],
+      [
+        "النوع",
+        "Advanced Hemostasis"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 333
+  },
+  {
+    "id": "SI-ethicon-harmonic-hdh05",
+    "name": "Ethicon HARMONIC Blade HDH05",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HDH05",
+    "image": "/product-images/official-energy/ethicon-hdh05.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic blade — hook tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HDH05"
+      ],
+      [
+        "العائلة",
+        "HARMONIC Blade"
+      ],
+      [
+        "الطول",
+        "4–9 cm"
+      ],
+      [
+        "النوع",
+        "Ultrasonic blade — hook tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 334
+  },
+  {
+    "id": "SI-ethicon-harmonic-sngcb",
+    "name": "Ethicon HARMONIC SYNERGY Blade SNGCB",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-SNGCB",
+    "image": "/product-images/official-energy/ethicon-sngcb.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic blade — curved tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "SNGCB"
+      ],
+      [
+        "العائلة",
+        "HARMONIC SYNERGY Blade"
+      ],
+      [
+        "الطول",
+        "Adjustable"
+      ],
+      [
+        "النوع",
+        "Ultrasonic blade — curved tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 335
+  },
+  {
+    "id": "SI-ethicon-harmonic-snghk",
+    "name": "Ethicon HARMONIC SYNERGY Blade SNGHK",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-SNGHK",
+    "image": "/product-images/official-energy/ethicon-snghk.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Ultrasonic blade — hook tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "SNGHK"
+      ],
+      [
+        "العائلة",
+        "HARMONIC SYNERGY Blade"
+      ],
+      [
+        "الطول",
+        "Adjustable"
+      ],
+      [
+        "النوع",
+        "Ultrasonic blade — hook tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 336
+  },
+  {
+    "id": "SI-ethicon-harmonic-snghk2",
+    "name": "Ethicon HARMONIC SYNERGY Blade SNGHK2",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-SNGHK2",
+    "image": "/product-images/official-energy/ethicon-snghk2.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. Combination hook tip.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "SNGHK2"
+      ],
+      [
+        "العائلة",
+        "HARMONIC SYNERGY Blade"
+      ],
+      [
+        "الطول",
+        "Adjustable"
+      ],
+      [
+        "النوع",
+        "Combination hook tip"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 337
+  },
+  {
+    "id": "SI-ethicon-harmonic-hp054",
+    "name": "Ethicon HARMONIC Hand Piece HP054",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HP054",
+    "image": "/product-images/official-energy/ethicon-hp054.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. For ACE / ACE+7 and compatible blades.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HP054"
+      ],
+      [
+        "العائلة",
+        "HARMONIC Hand Piece"
+      ],
+      [
+        "الطول",
+        "—"
+      ],
+      [
+        "النوع",
+        "For ACE / ACE+7 and compatible blades"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 338
+  },
+  {
+    "id": "SI-ethicon-harmonic-hpblue",
+    "name": "Ethicon HARMONIC Hand Piece HPBLUE",
+    "category": "الآلات الجراحية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-SI-ETHICON-HPBLUE",
+    "image": "/product-images/official-energy/ethicon-hpblue.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منتج من منظومة HARMONIC بالموجات فوق الصوتية للقطع والتعامل مع الأنسجة. For FOCUS / SYNERGY and compatible blades.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon / J&J MedTech"
+      ],
+      [
+        "الكود",
+        "HPBLUE"
+      ],
+      [
+        "العائلة",
+        "HARMONIC Hand Piece"
+      ],
+      [
+        "الطول",
+        "—"
+      ],
+      [
+        "النوع",
+        "For FOCUS / SYNERGY and compatible blades"
+      ],
+      [
+        "المنصة",
+        "HARMONIC ultrasonic energy"
+      ]
+    ],
+    "badge": "HARMONIC Ultrasonic",
+    "featured": false,
+    "priority": 339
+  },
+  {
+    "id": "MD-ethicon-gen11-generator",
+    "name": "مولد الطاقة الجراحية Ethicon GEN11",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ETHICON-GEN11",
+    "image": "/product-images/official-energy/ethicon-gen11.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مولد طاقة جراحية من Ethicon متوافق مع جميع أجهزة HARMONIC وENSEAL المدعومة.",
+    "specs": [
+      [
+        "الماركة",
+        "Ethicon"
+      ],
+      [
+        "الموديل",
+        "GEN11"
+      ],
+      [
+        "النوع",
+        "Surgical energy generator"
+      ],
+      [
+        "التوافق",
+        "All HARMONIC and ENSEAL devices"
+      ],
+      [
+        "الاستخدام",
+        "Open / Laparoscopic"
+      ]
+    ],
+    "badge": "HARMONIC + ENSEAL",
+    "featured": true,
+    "priority": 340
+  },
+  {
+    "id": "MD-erbe-vio-3",
+    "name": "جهاز Diathermy ERBE VIO 3",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10160-000",
+    "image": "/product-images/official-energy/erbe-vio3.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منصة كهرباء جراحية متقدمة متعددة أوضاع القطع والتجلط",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 3"
+      ],
+      [
+        "رقم المنتج",
+        "10160-000"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 341
+  },
+  {
+    "id": "MD-erbe-vio-3n",
+    "name": "جهاز Diathermy ERBE VIO 3n",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10160-010",
+    "image": "/product-images/official-energy/erbe-vio3n.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مولد مخصص لتطبيقات المناظير والجهاز الهضمي بتكوينات متعددة",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 3n"
+      ],
+      [
+        "رقم المنتج",
+        "10160-010"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 342
+  },
+  {
+    "id": "MD-erbe-vio-seal",
+    "name": "جهاز Diathermy ERBE VIO seal",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10160-020",
+    "image": "/product-images/official-energy/erbe-vio-seal.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مولد مخصص للتطبيقات ثنائية القطب وغلق الأوعية",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO seal"
+      ],
+      [
+        "رقم المنتج",
+        "10160-020"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 343
+  },
+  {
+    "id": "MD-erbe-vio-300-d",
+    "name": "جهاز Diathermy ERBE VIO 300 D",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-100",
+    "image": "/product-images/official-energy/erbe-vio-d.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "قدرة قطع قصوى 300 W مع شاشة TFT",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 300 D"
+      ],
+      [
+        "رقم المنتج",
+        "10140-100"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 344
+  },
+  {
+    "id": "MD-erbe-vio-200-d",
+    "name": "جهاز Diathermy ERBE VIO 200 D",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-200",
+    "image": "/product-images/official-energy/erbe-vio-d.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "قدرة قطع قصوى 200 W مع شاشة TFT",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 200 D"
+      ],
+      [
+        "رقم المنتج",
+        "10140-200"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 345
+  },
+  {
+    "id": "MD-erbe-vio-300-s",
+    "name": "جهاز Diathermy ERBE VIO 300 S",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-300",
+    "image": "/product-images/official-energy/erbe-vio-s.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة 300 W بواجهة segment display",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 300 S"
+      ],
+      [
+        "رقم المنتج",
+        "10140-300"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 346
+  },
+  {
+    "id": "MD-erbe-vio-200-s",
+    "name": "جهاز Diathermy ERBE VIO 200 S",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-400",
+    "image": "/product-images/official-energy/erbe-vio-s.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة 200 W بواجهة segment display",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 200 S"
+      ],
+      [
+        "رقم المنتج",
+        "10140-400"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 347
+  },
+  {
+    "id": "MD-erbe-vio-100-c",
+    "name": "جهاز Diathermy ERBE VIO 100 C",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-500",
+    "image": "/product-images/official-energy/erbe-vio-c.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة مدمجة 100 W للقطع والتجلط",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 100 C"
+      ],
+      [
+        "رقم المنتج",
+        "10140-500"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 348
+  },
+  {
+    "id": "MD-erbe-vio-50-c",
+    "name": "جهاز Diathermy ERBE VIO 50 C",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-ERBE-10140-550",
+    "image": "/product-images/official-energy/erbe-vio-c.png",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "وحدة مدمجة 50 W للعيادات والإجراءات الصغرى",
+    "specs": [
+      [
+        "الماركة",
+        "ERBE"
+      ],
+      [
+        "الموديل",
+        "VIO 50 C"
+      ],
+      [
+        "رقم المنتج",
+        "10140-550"
+      ],
+      [
+        "النوع",
+        "Electrosurgical / Diathermy unit"
+      ],
+      [
+        "الاستخدام",
+        "Monopolar / Bipolar بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgery",
+    "featured": false,
+    "priority": 349
+  },
+  {
+    "id": "MD-olympus-esg-410",
+    "name": "جهاز Diathermy Olympus ESG-410",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-OLYMPUS-ESG-410",
+    "image": "/product-images/official-energy/olympus-esg-410.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "منصة شاملة تدعم Hybrid وAdvanced Bipolar وUltrasonic وMonopolar وBipolar وPLASMA+.",
+    "specs": [
+      [
+        "الماركة",
+        "Olympus"
+      ],
+      [
+        "الموديل",
+        "ESG-410"
+      ],
+      [
+        "النوع",
+        "Surgical energy platform"
+      ],
+      [
+        "الاستخدام",
+        "جراحة ومناظير بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgical Generator",
+    "featured": false,
+    "priority": 350
+  },
+  {
+    "id": "MD-olympus-esg-300",
+    "name": "جهاز Diathermy Olympus ESG-300",
+    "category": "أجهزة طبية",
+    "price": "عند الطلب",
+    "sku": "MS-EG-MD-OLYMPUS-ESG-300",
+    "image": "/product-images/official-energy/olympus-esg-300.jpg",
+    "imageFit": "contain",
+    "imageCount": 1,
+    "description": "مولد كهرباء جراحية للمناظير الهضمية والتنفسية مع أوضاع SmartArgon وحفظ برامج الإجراءات.",
+    "specs": [
+      [
+        "الماركة",
+        "Olympus"
+      ],
+      [
+        "الموديل",
+        "ESG-300"
+      ],
+      [
+        "النوع",
+        "Surgical energy platform"
+      ],
+      [
+        "الاستخدام",
+        "جراحة ومناظير بحسب التكوين"
+      ]
+    ],
+    "badge": "Electrosurgical Generator",
+    "featured": false,
+    "priority": 351
   }
 ]
