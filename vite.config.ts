@@ -34,7 +34,7 @@ const localBindingConfig = {
     : [],
 };
 
-export default defineConfig(async () => {
+export default defineConfig(async ({ command }) => {
   // Keep Wrangler and Miniflare state project-local. These are non-secret tool
   // settings; application environment belongs in ignored `.env*` files.
   process.env.WRANGLER_WRITE_LOGS ??= 'false';
@@ -42,7 +42,10 @@ export default defineConfig(async () => {
   process.env.MINIFLARE_REGISTRY_PATH ??= '.wrangler/registry';
 
   // Wrangler snapshots its log path while the Cloudflare plugin is imported.
-  const enableCloudflare = process.env.ENABLE_CLOUDFLARE === 'true';
+  // Production builds must emit a Cloudflare Worker with a default fetch
+  // handler. Keep local development lightweight unless explicitly enabled.
+  const enableCloudflare =
+    command === 'build' || process.env.ENABLE_CLOUDFLARE === 'true';
   let cloudflarePlugin;
   if (enableCloudflare) {
     const { cloudflare } = await import('@cloudflare/vite-plugin');
