@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 import { X, Send, FileText, CheckCircle2, Building2, Mail, Loader2 } from 'lucide-react';
-import { waLink } from '@/app/data/site-config';
+import { siteConfig, waLink } from '@/app/data/site-config';
 import { WhatsAppIcon } from '@/app/components/whatsapp-icon';
 
 type ModalStep = 'choose' | 'form' | 'success';
@@ -92,20 +92,23 @@ export function QuoteModal({ isOpen, onClose, productName }: QuoteModalProps) {
       form.append('_subject', `طلب جديد من الموقع: ${formData.subject}${formData.devices ? ` | ${formData.devices}` : ''}`);
       form.append('_template', 'table');
       form.append('_captcha', 'false');
+      form.append('_url', window.location.href);
       const honey = new FormData(e.currentTarget).get('_honey');
       form.append('_honey', typeof honey === 'string' ? honey : '');
 
-      const response = await fetch(`/api/contact`, {
+      const response = await fetch(`https://formsubmit.co/ajax/${siteConfig.email}`, {
         method: 'POST',
+        headers: { Accept: 'application/json' },
         body: form,
       });
 
-      const result = await response.json().catch(() => null) as { message?: string } | null;
+      const result = await response.json().catch(() => null) as { success?: boolean | string; message?: string } | null;
+      const accepted = result?.success === true || result?.success === 'true';
 
-      if (response.ok) {
+      if (response.ok && accepted) {
         setStep('success');
       } else {
-        alert(result?.message || 'حدث خطأ أثناء الإرسال. يرجى المحاولة مرة أخرى أو التواصل عبر الواتساب.');
+        alert(result?.message || 'لم تقبل خدمة البريد الطلب. تأكد من تفعيل FormSubmit من رسالة التفعيل المرسلة إلى بريد الشركة.');
       }
     } catch {
       alert('حدث خطأ في الاتصال. يرجى المحاولة مرة أخرى.');

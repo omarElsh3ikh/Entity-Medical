@@ -40,8 +40,12 @@ next-env.d.ts
 /.git-tools/
 /.restored-clean/
 /.watermarked-backup/
+/.cleanup-quarantine-*/
 /project.zip
 /entity-medical-hostinger-ready.zip
+/entity-medical-hostinger-formsubmit-ready.zip
+/entity-medical-hostinger-ready-v2.zip
+/view/
 /tmp/
 /Medical Services Web/
 /Medical Site Photo/

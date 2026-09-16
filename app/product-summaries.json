@@ -7,7 +7,7 @@
     "sku": "MS-EG-MD-CAMERA-STRYKER-1688",
     "image": "/product-display/29194ed9c49eb7.webp",
     "imageFit": "cover",
-    "imageCount": 6,
+    "imageCount": 7,
     "description": "كاميرا جراحية 4K تُستخدم في المناظير الجراحية لتوفير صورة عالية الوضوح أثناء العمليات.",
     "specs": [
       [
@@ -73,7 +73,7 @@
     "sku": "MS-EG-MD-1588-STRYKER",
     "image": "/product-display/b6e467ae6da3e8.webp",
     "imageFit": "cover",
-    "imageCount": 7,
+    "imageCount": 8,
     "description": "كاميرا منظار جراحي HD تُظهر صور عالية الدقة داخل الجسم أثناء العمليات التنظيرية.",
     "specs": [
       [
@@ -104,7 +104,7 @@
     "sku": "MS-EG-MD-LIGHT-SOURCE-XENON-300",
     "image": "/product-display/eeddab10eed38b.webp",
     "imageFit": "cover",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "جهاز مصدر ضوء 300 W بزِنون يستخدم في أجهزة المناظير الجراحية والطبية لتوفير إضاءة قوية وثابتة أثناء العمليات والفحوصات",
     "specs": [
       [
@@ -137,7 +137,7 @@
     "sku": "MS-EG-MD-INSUFFLATOR-20-STORZ",
     "image": "/product-display/7cc2a7d7e2b7bb.webp",
     "imageFit": "contain",
-    "imageCount": 6,
+    "imageCount": 7,
     "description": "جهاز نفخ/Insufflator CO₂ يُستخدم في تنظير البطن والجراحة بالمنظار لضغط التجويف الداخلي وتوفير مساحة عمل للجراح.",
     "specs": [
       [
@@ -199,7 +199,7 @@
     "sku": "MS-EG-MD-LIGHT-SOURCE-L11-STRYKER",
     "image": "/product-display/8253df4bd5f2f3.webp",
     "imageFit": "contain",
-    "imageCount": 4,
+    "imageCount": 5,
     "description": "مصدر ضوء LED جراحي عالي الأداء يُستخدم في غرف العمليات لتوفير إضاءة قوية وواضحة أثناء المناظير الجراحية.",
     "specs": [
       [
@@ -230,7 +230,7 @@
     "sku": "MS-EG-MD-TRICAM-SCL-LL-STORZ",
     "image": "/product-display/b1a1808bdf84b4.webp",
     "imageFit": "contain",
-    "imageCount": 10,
+    "imageCount": 11,
     "description": "نظام كاميرا منظار طبي مزود بمعالج فيديو ومُخصص للتصوير الداخلي خلال الإجراءات المنظارية.",
     "specs": [
       [
@@ -261,7 +261,7 @@
     "sku": "MS-EG-SU-SUCTION-IRRIGATION-TUBE-YOUSHI",
     "image": "/product-display/6faf17dc5134f6.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "أنبوب جراحي يُستخدم لشفط السوائل وإرواء المنطقة الجراحية أثناء الإجراءات التنظيرية وعمليات المنظار.",
     "specs": [
       [
@@ -323,7 +323,7 @@
     "sku": "MS-EG-SU-ATRAUMATIC-FORCEPS-YOUSHI",
     "image": "/product-display/66a78d99725dc3.webp",
     "imageFit": "contain",
-    "imageCount": 13,
+    "imageCount": 14,
     "description": "كماشة جراحية غير مؤذية تُستخدم لتثبيت أو سحب الأنسجة الرقيقة دون إحداث تلف أثناء الإجراءات التنظيرية أو الجراحية.",
     "specs": [
       [
@@ -664,7 +664,7 @@
     "sku": "MS-EG-MD-DIGIVIDEO-STORZ",
     "image": "/product-display/821e61690ed971.webp",
     "imageFit": "contain",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "نظام كاميرا/وحدة تحكّم فيديو لتنظير داخلي يُستخدم لتسجيل وعرض فيديو عالي الجودة أثناء الإجراءات التنظيرية.",
     "specs": [
       [
@@ -695,7 +695,7 @@
     "sku": "MS-EG-SU-BABCOCK-GRASPER-FORCEPS-YOUSHI",
     "image": "/product-display/bfbb45118ab0b7.webp",
     "imageFit": "contain",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "كماشة Babcock جراحية من YouShi تُستخدم لتثبيت الأنسجة الرقيقة (مثل الأمعاء أو القناة الدمعية) بلطف أثناء العمليات دون إلحاق تلف.",
     "specs": [
       [
@@ -757,7 +757,7 @@
     "sku": "MS-EG-MD-SYSTEM-260-OLYMPUS",
     "image": "/product-display/ae42601fde39d8.webp",
     "imageFit": "cover",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "نظام تصوير وتنظير داخلي طبي متكامل مكوَّن من Video Processor (CV-260) + Light Source (CLV-260) يُستخدم في إجراءات تنظير القناة الهضمية والأنف والأذن والحنجرة ومسالك مختلفة لتوفير صورة واضحة وتحليل دقيق أثناء الفحص.",
     "specs": [
       [
@@ -1191,7 +1191,7 @@
     "sku": "MS-EG-MD-XENON-175-STORZ",
     "image": "/product-display/59f18ddf7a71ae.webp",
     "imageFit": "contain",
-    "imageCount": 6,
+    "imageCount": 7,
     "description": "مصدر ضوء Xenon 175 Watt من Karl Storz يُستخدم في المناظير الجراحية لتوفير إضاءة قوية وثابتة داخل الجسم أثناء الإجراءات.",
     "specs": [
       [
@@ -1253,7 +1253,7 @@
     "sku": "MS-EG-MD-INSUFFLATOR-45-STRYKER",
     "image": "/product-display/62262597d13eff.webp",
     "imageFit": "contain",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "جهاز نفخ ثاني أكسيد الكربون (CO₂) طبي يستخدم في جراحات المناظير لإنشاء والحفاظ على النفخ داخل تجويف البطن أثناء العملية.",
     "specs": [
       [
@@ -1501,7 +1501,7 @@
     "sku": "MS-EG-MD-CONSOLE-CORE-STRYKER",
     "image": "/product-display/52ab24216ba70c.webp",
     "imageFit": "contain",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "وحدة تحكم مركزية من Stryker تُستخدم كـ Console لتشغيل والتحكم في أدوات الجراحة الكهربائية (مثل المثاقب والمناشير وأدوات الريّ) أثناء العمليات الجراحية المختلفة.",
     "specs": [
       [
@@ -1594,7 +1594,7 @@
     "sku": "MS-EG-MD-LIGHT-PRECISION-STRYKER",
     "image": "/product-display/8e6625df07b994.webp",
     "imageFit": "contain",
-    "imageCount": 6,
+    "imageCount": 7,
     "description": "مصدر ضوء عالي الدقة من Stryker يُستخدم في المناظير الجراحية لتوفير إضاءة ثابتة وواضحة داخل الجسم أثناء الإجراءات التنظيرية والجراحية",
     "specs": [
       [
@@ -1873,7 +1873,7 @@
     "sku": "MS-EG-SU-CLIP-APPLIER-YOUSHI",
     "image": "/product-display/6ab40794b6c568.webp",
     "imageFit": "contain",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "أداة جراحية من YouShi تُستخدم لتطبيق المشابك الجراحية (clips) على الأوعية أو الأنسجة أثناء الإجراءات لتنفيذ الربط أو الإغلاق السريع.",
     "specs": [
       [
@@ -1997,7 +1997,7 @@
     "sku": "MS-EG-SU-DISSECTING-FORCEPS-YOUSHI",
     "image": "/product-display/6f7510e014a96b.webp",
     "imageFit": "contain",
-    "imageCount": 22,
+    "imageCount": 23,
     "description": "كماشة جراحية من YouShi تُستخدم لفصل ورفع الأنسجة برفق أثناء الإجراءات الجراحية والتنظيرية لدعم الدقة وتقليل التلف بالنسيج.",
     "specs": [
       [
@@ -2059,7 +2059,7 @@
     "sku": "MS-EG-SU-STRAIGHT-SCISSOR-YOUSHI",
     "image": "/product-display/70c8aead6ef6c0.webp",
     "imageFit": "contain",
-    "imageCount": 9,
+    "imageCount": 10,
     "description": "مقص مباشر جراحي من YouShi يُستخدم لقطع الأنسجة بدقة أثناء الإجراءات الجراحية أو التنظيرية.",
     "specs": [
       [
@@ -2152,7 +2152,7 @@
     "sku": "MS-EG-MD-CONSOLE-CORE-2-STRYKER",
     "image": "/product-display/d34a8b991cc776.webp",
     "imageFit": "contain",
-    "imageCount": 3,
+    "imageCount": 4,
     "description": "وحدة تحكم مركزية جراحة متعددة الوظائف من Stryker تُستخدم لتشغيل والتحكم في أدوات الجراحة الكهربائية (مثل مثاقب، مناشير، قواطع) أثناء الإجراءات الجراحية العامة والعظمية.",
     "specs": [
       [
@@ -2369,7 +2369,7 @@
     "sku": "MS-EG-MD-X-8000-STRYKER",
     "image": "/product-display/d034e0edaacb74.webp",
     "imageFit": "contain",
-    "imageCount": 7,
+    "imageCount": 8,
     "description": "مصدر ضوء Xenon قوي 300 W من Stryker يُستخدم في الإجراءات التنظيرية والجراحية لتوفير إضاءة بيضاء نقية وقوية داخل الجسم.",
     "specs": [
       [
@@ -2714,7 +2714,7 @@
     "sku": "MS-EG-MD-SYSTEM-290-OLYMPUS",
     "image": "/product-display/bcf51c19a6c0fd.webp",
     "imageFit": "cover",
-    "imageCount": 4,
+    "imageCount": 5,
     "description": "System 290 - olympus جهاز طبي عالي الجودة.",
     "specs": [
       [
@@ -2745,7 +2745,7 @@
     "sku": "MS-EG-MD-HALOGIN-150-STORZ",
     "image": "/product-display/017c9663c5bf38.webp",
     "imageFit": "contain",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "مصدر ضوء هالوجين 150 W من Karl Storz يُستخدم في التنظير الطبي لتوفير إضاءة قوية وواضحة للمناظير خلال الإجراءات الجراحية.",
     "specs": [
       [
@@ -3117,7 +3117,7 @@
     "sku": "MS-EG-MD-STORZ-CAMERA-IMAGE-1",
     "image": "/product-display/9fa431e2d455ad.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 3,
     "description": "نظام كاميرا جراحة ومناظير Image 1 من Karl Storz يُستخدم لتصوير وعرض الفيديو أثناء الإجراءات التنظيرية والجراحية بجودة HD أو أعلى (حسب الموديل).",
     "specs": [
       [
@@ -3547,7 +3547,7 @@
     "sku": "MS-EG-MD-HALOGIN-250-STORZ",
     "image": "/product-display/b3c3a5fd5cefd5.webp",
     "imageFit": "contain",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "مصدر ضوء هالوجين بقدرة 250 W من Karl Storz يُستخدم للإضاءة في الإجراءات التنظيرية والطبية مع نقل الضوء عبر كابلات الألياف الضوئية إلى المنظار.",
     "specs": [
       [
@@ -3671,7 +3671,7 @@
     "sku": "MS-EG-MD-INSUFFLATOR-40-STRYKER",
     "image": "/product-display/f73698bce98f8e.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "جهاز نفخ CO₂ طبي من Stryker يُستخدم في جراحات المناظير (Laparoscopy) لإنشاء والحفاظ على النفخ داخل تجويف البطن لتوفير مساحة عمل آمنة للطبيب أثناء العملية.",
     "specs": [
       [
@@ -4138,7 +4138,7 @@
     "sku": "MS-EG-MD-1288-STRYKER",
     "image": "/product-display/cad25e87ac8e94.webp",
     "imageFit": "contain",
-    "imageCount": 4,
+    "imageCount": 5,
     "description": "كاميرا منظار AIM 1288 من Stryker تُستخدم في الإجراءات التنظيرية والجراحية لتصوير داخل الجسم بدقة HD عالية وإرسال إشارة واضحة إلى شاشة العرض.",
     "specs": [
       [
@@ -4231,7 +4231,7 @@
     "sku": "MS-EG-MD-CAMERA-STRYKER-1188",
     "image": "/product-display/ac2d5bdd1a7fe4.webp",
     "imageFit": "contain",
-    "imageCount": 7,
+    "imageCount": 8,
     "description": "كاميرا منظار AIM 1188 HD من Stryker تُستخدم في الإجراءات التنظيرية والجراحية لتصوير صور وفيديو عالية الدقة (HD) داخل الجسم وإرسالها إلى شاشة العرض.",
     "specs": [
       [
@@ -4607,7 +4607,7 @@
     "sku": "MS-EG-MD-D-LIGHT-C-STORZ",
     "image": "/product-display/f4d6038a45aa59.webp",
     "imageFit": "contain",
-    "imageCount": 6,
+    "imageCount": 7,
     "description": "مصدر ضوء طبي Xenon/Cold Light من Karl Storz يُستخدم في التنظير الطبي ويوفّر إضاءة قوية ومتعدّدة أوضاع بما في ذلك الأبيض العادي والضوء الأزرق الخاص بالتشخيص الضوئي (PDD).",
     "specs": [
       [
@@ -4886,7 +4886,7 @@
     "sku": "MS-EG-MD-ARTHROSCOPY-SYSTEM-CROSSFIRE-STRYKER",
     "image": "/product-display/d45a90e4dc7d1b.webp",
     "imageFit": "contain",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "منصة تكاملية لجراحة المناظير (Arthroscopy) من Stryker تجمع بين وظائف الشفرة الدورانية (Shaver) والطاقة الراديوية (RF) في وحدة واحدة للتحكم في القطع والتخثير خلال جراحات المفاصل مثل الركبة والكتف والحوض.",
     "specs": [
       [
@@ -4948,7 +4948,7 @@
     "sku": "MS-EG-MD-L9000-STRYKER",
     "image": "/product-display/85c61f90959f4c.webp",
     "imageFit": "contain",
-    "imageCount": 5,
+    "imageCount": 6,
     "description": "مصدر ضوء LED طبي متقدّم من Stryker يُستخدم لإضاءة مواقع الجراحة أو التنظير الداخلي (laparoscopy, arthroscopy, endoscopy) بنور قوي وواضح يُنقل عبر Fiber Optic Light Cable.",
     "specs": [
       [
@@ -4979,7 +4979,7 @@
     "sku": "MS-EG-MD-1488-STRYKER",
     "image": "/product-display/20e4fdb815d605.webp",
     "imageFit": "contain",
-    "imageCount": 10,
+    "imageCount": 11,
     "description": "كاميرا تنظير متقدّمة من سلسلة AIM 1488 من Stryker تُستخدم في الإجراءات الجراحية والتنظيرية لتقديم صور عالية الدقة (HD) محسّنة مع ألوان وتباين أفضل مقارنة بالأنظمة الأقدم.",
     "specs": [
       [
@@ -8807,7 +8807,7 @@
     "sku": "MS-EG-MD-STORZ-TL300",
     "image": "/product-display/10c35e948291f3.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر إضاءة LED بارد للمناظير، مصمم للضوء الأبيض مع شاشة لمس وتحكم SCB وشدة ثابتة طوال عمر المصباح.",
     "specs": [
       [
@@ -8856,7 +8856,7 @@
     "sku": "MS-EG-MD-OLYMPUS-CLV-S400",
     "image": "/product-display/b60d9f7797a745.webp",
     "imageFit": "cover",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر ضوء Xenon مخصص لمنظومة VISERA 4K UHD، يوفر إضاءة قوية ومتحكمًا آليًا في الشدة ويدعم تقنية NBI.",
     "specs": [
       [
@@ -9568,7 +9568,7 @@
     "sku": "MS-EG-MD-COVIDIEN-LS10",
     "image": "/product-display/63f9c69272aab9.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مولد أحادي القناة مخصص لتقنية LigaSure لغلق الأوعية ودمج الأنسجة في الجراحات المفتوحة والمناظير.",
     "specs": [
       [
@@ -9609,7 +9609,7 @@
     "sku": "MS-EG-MD-COVIDIEN-FORCETRIAD",
     "image": "/product-display/b0bd2963f0b7e4.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 3,
     "description": "منصة طاقة جراحية تجمع وظائف القطع والكي أحادي وثنائي القطب مع تقنية LigaSure في وحدة واحدة.",
     "specs": [
       [
@@ -9765,7 +9765,7 @@
     "sku": "MS-EG-ICU-MINDRAY-N12-N17",
     "image": "/product-display/825369e4b79287.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "عائلة مونيتورات معيارية للمراقبة المستمرة من سرير المريض، تشمل N12 المدمج وN17 بالشاشة الكبيرة عالية الدقة.",
     "specs": [
       [
@@ -9917,7 +9917,7 @@
     "sku": "MS-EG-ICU-PHILIPS-MX100",
     "image": "/product-display/f3c329e367a126.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مونيتور مدمج محمول للمراقبة والنقل داخل المستشفى مع شاشة لمس واضحة ومعلمات أساسية وخيارات توسعة.",
     "specs": [
       [
@@ -9958,7 +9958,7 @@
     "sku": "MS-EG-ICU-PHILIPS-MX400",
     "image": "/product-display/f08b604f510e40.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مونيتور مدمج بشاشة لمس للمراقبة بجوار السرير وأثناء النقل في الطوارئ والعناية وحديثي الولادة.",
     "specs": [
       [
@@ -9995,7 +9995,7 @@
     "sku": "MS-EG-ICU-PHILIPS-MX500",
     "image": "/product-display/15be2ff4c48113.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مونيتور سريري بشاشة لمس 12 بوصة لعرض بيانات المريض والموجات في الرعاية الحرجة وغرف العمليات.",
     "specs": [
       [
@@ -10069,7 +10069,7 @@
     "sku": "MS-EG-ICU-PHILIPS-MX40",
     "image": "/product-display/7649880e1e7efc.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "جهاز مراقبة لاسلكي قابل للارتداء يوفر عرضًا محليًا ومراقبة مستمرة للمريض أثناء الحركة داخل المنشأة.",
     "specs": [
       [
@@ -10180,7 +10180,7 @@
     "sku": "MS-EG-MD-OLYMPUS-CLVS200IR",
     "image": "/product-display/e9d438a3cbaacb.webp",
     "imageFit": "cover",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر ضوء زينون للمناظير يدعم التصوير بالأشعة تحت الحمراء إلى جانب الإضاءة البيضاء.",
     "specs": [
       [
@@ -10217,7 +10217,7 @@
     "sku": "MS-EG-MD-FUJIFILM-BL7000",
     "image": "/product-display/08382648116799.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر ضوء رباعي LED لمنظومة ELUXEO يوفر أوضاع الإضاءة البيضاء وBLI وLCI عند دمجه مع المعالج VP-7000.",
     "specs": [
       [
@@ -10258,7 +10258,7 @@
     "sku": "MS-EG-MD-CONMED-LS8000",
     "image": "/product-display/21759e3c67e687.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر ضوء LED لمنظومات التصوير الجراحي عالية الدقة، مصمم لتوفير إضاءة مستقرة للمناظير الصلبة والمرنة المتوافقة.",
     "specs": [
       [
@@ -10295,7 +10295,7 @@
     "sku": "MS-EG-MD-STORZ-POWERLED175",
     "image": "/product-display/ffda1bc225bbba.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مصدر ضوء LED مدمج لمناظير KARL STORZ يوفر ضوءًا قريبًا من ضوء النهار مع عمر تشغيل طويل.",
     "specs": [
       [
@@ -10648,7 +10648,7 @@
     "sku": "MS-EG-ICU-DRAEGER-VISTA300",
     "image": "/product-display/c62da27c404d5e.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 3,
     "description": "مونيتور سريري بشاشة لمس عالية الدقة للبالغين والأطفال وحديثي الولادة، قابل للتكامل مع بيئة الرعاية الحادة.",
     "specs": [
       [
@@ -11248,7 +11248,7 @@
     "sku": "MS-EG-ICU-EDAN-IM20",
     "image": "/product-display/2de0b0ee79d220.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 3,
     "description": "مونيتور نقل مدمج يعمل أيضًا كوحدة قياس لمنظومات المراقبة المتقدمة، للبالغين والأطفال وحديثي الولادة.",
     "specs": [
       [
@@ -11289,7 +11289,7 @@
     "sku": "MS-EG-ICU-EDAN-IM3",
     "image": "/product-display/2cf618217ff34b.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "مونيتور علامات حيوية محمول للجولات والقياس اللحظي والمراقبة المستمرة في العيادات والأقسام.",
     "specs": [
       [
@@ -11326,7 +11326,7 @@
     "sku": "MS-EG-ICU-EDAN-IM3S",
     "image": "/product-display/499f84eb61ceff.webp",
     "imageFit": "contain",
-    "imageCount": 1,
+    "imageCount": 2,
     "description": "جهاز يدوي سريع لقياس العلامات الحيوية في الجولات والطوارئ والرعاية المتنقلة، مع قاعدة شحن اختيارية.",
     "specs": [
       [

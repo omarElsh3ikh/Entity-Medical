@@ -1319,33 +1319,14 @@ input, textarea, select { accent-color: var(--primary-blue); }
   position: absolute;
   z-index: 3;
   inset: -8%;
-  background: center / 180px 106px repeat url('/brand/entity-watermark-text.svg');
-  opacity: .24;
+  background: center / 190px 112px repeat url('/brand/entity-watermark-text.svg');
+  opacity: .22;
   mix-blend-mode: multiply;
   pointer-events: none;
 }
 
 .text-watermark img,
 .text-watermark svg { position: relative; z-index: 1; }
-
-.comparison-image.text-watermark::before {
-  background-size: 118px 70px;
-  opacity: .22;
-}
-
-.product-thumb-visual.text-watermark::before {
-  background-size: 64px 38px;
-  opacity: .20;
-}
-
-.comparison-dock-thumb.text-watermark::before {
-  background-size: 32px 19px;
-  opacity: .20;
-}
-
-@media (max-width: 640px) {
-  .text-watermark::before { background-size: 160px 94px; opacity: .22; }
-}
 
 .catalog-product-visual { aspect-ratio: 16 / 10; min-width: 0; }
 .catalog-product-image { display: block; width: 100%; height: 100%; object-fit: contain; object-position: center; }

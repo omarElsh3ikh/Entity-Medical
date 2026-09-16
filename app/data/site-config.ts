@@ -18,12 +18,3 @@ export const siteConfig = {
 
 export const waLink = (message: string) =>
   `https://wa.me/${siteConfig.whatsapp}?text=${encodeURIComponent(message)}`;
-
-export const navLinks = [
-  { href: '/', label: 'الرئيسية' },
-  { href: '/products', label: 'المنتجات' },
-  { href: '/offers', label: 'العروض' },
-  { href: '/about', label: 'عن الشركة' },
-  { href: '/contact', label: 'تواصل معنا' },
-  { href: '/faq', label: 'الأسئلة الشائعة' },
-] as const;

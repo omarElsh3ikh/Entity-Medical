@@ -9,7 +9,7 @@
     "dev": "vinext dev",
     "prebuild": "node scripts/generate-product-summaries.mjs",
     "build": "vinext build",
-    "start": "vinext start",
+    "start": "node server.js",
     "lint": "oxlint",
     "format": "oxfmt"
   },
