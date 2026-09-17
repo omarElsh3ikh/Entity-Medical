@@ -10,8 +10,8 @@ export const siteConfig = {
   address: 'May Towers, Nasr City, Cairo',
   maps: 'https://maps.app.goo.gl/PkCrbPiNF772Aa6f7',
   social: {
-    facebook: 'https://www.facebook.com/profile.php?id=61556840584535',
-    telegram: 'https://t.me/Medical_Services_Egypt',
+    facebook: 'https://www.facebook.com/profile.php?id=61592513580158',
+    telegram: 'https://t.me/+201055834363',
   },
   website: 'https://www.entitymedicalegypt.com',
 };
