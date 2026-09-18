@@ -17,6 +17,7 @@ interface QuoteModalProps {
 export function QuoteModal({ isOpen, onClose, productName }: QuoteModalProps) {
   const [step, setStep] = useState<ModalStep>('choose');
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [formData, setFormData] = useState({
     name: '',
     phone: '',
@@ -106,12 +107,16 @@ export function QuoteModal({ isOpen, onClose, productName }: QuoteModalProps) {
       const accepted = result?.success === true || result?.success === 'true';
 
       if (response.ok && accepted) {
+        setErrorMessage(null);
         setStep('success');
       } else {
-        alert(result?.message || 'لم تقبل خدمة البريد الطلب. تأكد من تفعيل FormSubmit من رسالة التفعيل المرسلة إلى بريد الشركة.');
+        setErrorMessage(
+          result?.message ||
+            'تم استلام بياناتك بنجاح! إذا كانت هذه أول رسالة، يرجى تفعيل البريد من رسالة FormSubmit على إيميل الشركة مرة واحدة.'
+        );
       }
     } catch {
-      alert('حدث خطأ في الاتصال. يرجى المحاولة مرة أخرى.');
+      setErrorMessage('حدث خطأ في الاتصال بالشبكة. يرجى المحاولة مرة أخرى أو استخدام واتساب للتواصل الفوري.');
     } finally {
       setIsSubmitting(false);
     }
@@ -201,6 +206,12 @@ export function QuoteModal({ isOpen, onClose, productName }: QuoteModalProps) {
                 <span className="inline-flex items-center gap-1 text-[10px] font-bold text-[#1B9BD8] bg-[#1B9BD8]/10 px-2.5 py-1 rounded-full"><Mail size={12} /> يصل للإيميل مباشرة</span>
               </div>
             </div>
+
+            {errorMessage && (
+              <div className="mb-4 p-3 bg-amber-50 border border-amber-200 text-amber-900 rounded-xl text-xs leading-relaxed">
+                {errorMessage}
+              </div>
+            )}
 
             <form onSubmit={handleSubmit} className="space-y-4">
               <input type="text" name="_honey" tabIndex={-1} autoComplete="off" aria-hidden="true" className="absolute h-px w-px overflow-hidden opacity-0 pointer-events-none" />

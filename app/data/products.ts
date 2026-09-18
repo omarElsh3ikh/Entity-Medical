@@ -40,20 +40,3 @@ export const products = (productsJson as Product[]).map((product) => ({
 export const featuredProducts = products
   .filter((p) => p.featured)
   .sort((a, b) => (a.homePriority ?? 99) - (b.homePriority ?? 99));
-
-export const categories = ['الكل', 'أجهزة طبية', 'الآلات الجراحية', 'أجهزة الرعاية', 'كبسولات العمليات'] as const;
-export type Category = (typeof categories)[number];
-
-export function getProduct(id: string): Product | undefined {
-  return products.find((p) => p.id === id);
-}
-
-export function filterProducts(query: string, category: Category): Product[] {
-  return products.filter((p) => {
-    const catMatch = category === 'الكل' || p.category === category;
-    const q = query.trim().toLowerCase();
-    if (!q) return catMatch;
-    const haystack = `${p.name} ${p.sku} ${p.category} ${p.description ?? ''}`.toLowerCase();
-    return catMatch && haystack.includes(q);
-  });
-}

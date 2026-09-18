@@ -6,7 +6,7 @@ export const siteConfig = {
   whatsapp: '201055834363',
   phone: '01055834363',
   phoneIntl: '+201055834363',
-  email: 'support@entitymedicalegypt.com',
+  email: 'info@entitymedicalegypt.com',
   address: 'May Towers, Nasr City, Cairo',
   maps: 'https://maps.app.goo.gl/PkCrbPiNF772Aa6f7',
   social: {

@@ -305,13 +305,13 @@ export function ProductDetailClient({ product, relatedProducts }: { product: Pro
                     <h4 className="device-name font-black text-[#1B2848] text-sm mb-2 line-clamp-1 group-hover:text-[#1B9BD8] transition-colors">{rel.name}</h4>
                   </div>
 
-                  <a
+                  <Link
                     href={`/products/${rel.id}`}
                     className="mt-4 h-10 px-3 border border-slate-200 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded-xl text-xs font-bold text-center transition-all inline-flex items-center justify-center gap-1 shadow-2xs whitespace-nowrap"
                   >
                     <span>عرض التفاصيل</span>
                     <ChevronLeft size={14} />
-                  </a>
+                  </Link>
                 </div>
               ))}
             </div>

@@ -2,5 +2,25 @@ import type { MetadataRoute } from 'next';
 import { siteConfig } from '@/app/data/site-config';
 
 export default function robots(): MetadataRoute.Robots {
-  return { rules: { userAgent: '*', allow: '/', disallow: ['/api/'] }, sitemap: `${siteConfig.website}/sitemap.xml`, host: siteConfig.website };
+  return {
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: ['/api/'],
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: ['/api/'],
+      },
+      {
+        userAgent: 'bingbot',
+        allow: '/',
+        disallow: ['/api/'],
+      },
+    ],
+    sitemap: `${siteConfig.website}/sitemap.xml`,
+    host: siteConfig.website,
+  };
 }

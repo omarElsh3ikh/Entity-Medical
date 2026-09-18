@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useMemo } from 'react';
+import Link from 'next/link';
 import { SiteHeader } from '@/app/components/site-header';
 import { SiteFooter } from '@/app/components/site-footer';
 import { ScrollReveal } from '@/app/components/scroll-reveal';
@@ -186,9 +187,35 @@ export default function ProductsPage() {
     document.getElementById('device-comparison')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
   };
 
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'كتالوج الأجهزة والمناظير الطبية | ENTITY Medical Egypt',
+    description: 'قائمة شاملة وموثقة للأجهزة والمناظير والآلات الجراحية مع المواصفات الفنية والفحص التشغيلي.',
+    url: 'https://www.entitymedicalegypt.com/products',
+    numberOfItems: products.length,
+    itemListElement: products.slice(0, 30).map((product, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      item: {
+        '@type': 'Product',
+        name: product.name,
+        url: `https://www.entitymedicalegypt.com/products/${encodeURIComponent(product.id)}`,
+        sku: product.sku,
+        category: product.category,
+        image: product.image ? new URL(product.image, 'https://www.entitymedicalegypt.com').href : undefined,
+      },
+    })),
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-[#eaf2f9] text-[#1B2848]" dir="rtl">
       <SiteHeader />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
 
       <main className="flex-1 pt-24 pb-20 bg-gradient-to-b from-[#edf5fa] via-[#f7fafc] to-[#eaf2f9]">
         {/* Page Hero - Deep Surgical Navy with Glowing Cyan & Gold */}
@@ -306,7 +333,7 @@ export default function ProductsPage() {
                         </Select>
                         <div className="comparison-device-summary">
                           <div className="comparison-image product-visual text-watermark">{product.image ? <img src={product.image} alt={product.name} className={product.imageFit === 'cover' ? 'product-image-fill' : ''} /> : <Microscope size={32} />}</div>
-                          <div><BrandMark value={product.name} /><h3 className="device-name">{product.name}</h3><a href={`/products/${product.id}`}>كل التفاصيل <ChevronLeft size={13} /></a></div>
+                          <div><BrandMark value={product.name} /><h3 className="device-name">{product.name}</h3><Link href={`/products/${product.id}`}>كل التفاصيل <ChevronLeft size={13} /></Link></div>
                         </div>
                       </div>
                     ))}
@@ -445,13 +472,13 @@ export default function ProductsPage() {
 
                         {/* Action Buttons */}
                         <div className="pt-3 border-t border-slate-100 mt-auto grid grid-cols-2 gap-2">
-                          <a
+                          <Link
                             href={`/products/${product.id}`}
                             className="h-10 px-2.5 rounded-xl border border-slate-200/90 bg-slate-50/80 hover:bg-slate-100 hover:border-slate-300 text-slate-700 font-bold text-xs transition-all duration-200 inline-flex items-center justify-center gap-1.5 shadow-2xs whitespace-nowrap group/btn"
                           >
                             <span>التفاصيل</span>
                             <ChevronLeft size={14} className="text-slate-400 group-hover/btn:-translate-x-0.5 transition-transform shrink-0" />
-                          </a>
+                          </Link>
 
                           <button
                             type="button"

@@ -1,6 +1,5 @@
 'use client';
 
-import React from 'react';
 import Link from 'next/link';
 import { SiteHeader } from '@/app/components/site-header';
 import { SiteFooter } from '@/app/components/site-footer';
@@ -11,9 +10,36 @@ import { QuoteModal, useQuoteModal } from '@/app/components/quote-modal';
 
 export default function AboutPage() {
   const quoteModal = useQuoteModal();
+  const aboutSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'عن شركة ENTITY Medical للأجهزة والمناظير الطبية',
+    url: 'https://www.entitymedicalegypt.com/about',
+    description: 'معلومات عن شركة ENTITY Medical، رؤيتها ورسالتها في تطوير وتجهيز غرف العمليات والأنظمة الجراحية في مصر.',
+    mainEntity: {
+      '@type': 'MedicalOrganization',
+      name: 'ENTITY Medical Devices Egypt',
+      foundingLocation: {
+        '@type': 'Place',
+        name: 'Cairo, Egypt',
+      },
+      knowsAbout: [
+        'أنظمة المناظير الجراحية 4K & Full HD',
+        'تجهيز غرف العمليات والمستشفيات',
+        'صيانة ودعم فني للأجهزة الطبية',
+        'كاميرات ومصادر إضاءة المناظير',
+      ],
+    },
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-[#edf5fa] text-[#1B2848]" dir="rtl">
       <SiteHeader />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutSchema) }}
+      />
 
       <main className="flex-1 pt-24 pb-20 bg-gradient-to-b from-[#edf5fa] via-[#f7fafc] to-[#eaf2f9]">
         {/* Page Hero - Deep Surgical Navy */}

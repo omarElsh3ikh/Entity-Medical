@@ -11,10 +11,11 @@
 # testing
 /coverage
 
-# next.js
+# build output
 /.next/
 /.vinext/
 /out/
+/dist/
 
 # misc
 .DS_Store
@@ -32,7 +33,6 @@ yarn-error.log*
 # deployment and generated files
 .vercel
 next-env.d.ts
-/dist/
 /.wrangler/
 /outputs/
 /work/
@@ -41,13 +41,6 @@ next-env.d.ts
 /.restored-clean/
 /.watermarked-backup/
 /.cleanup-quarantine-*/
-/project.zip
-/entity-medical-hostinger-ready.zip
-/entity-medical-hostinger-formsubmit-ready.zip
-/entity-medical-hostinger-ready-v2.zip
 /view/
 /tmp/
-/Medical Services Web/
-/Medical Site Photo/
-/public/Medical Site Photo/
 *.tsbuildinfo

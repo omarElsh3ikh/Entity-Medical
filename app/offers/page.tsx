@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { SiteHeader } from '@/app/components/site-header';
 import { SiteFooter } from '@/app/components/site-footer';
 import { ScrollReveal } from '@/app/components/scroll-reveal';
@@ -19,6 +19,7 @@ import {
   BadgeCheck,
 } from 'lucide-react';
 import { offers, offersTimerConfig } from '@/app/data/offers';
+import { siteConfig } from '@/app/data/site-config';
 import { WhatsAppIcon as MessageCircle } from '@/app/components/whatsapp-icon';
 import { QuoteModal, useQuoteModal } from '@/app/components/quote-modal';
 
@@ -77,9 +78,35 @@ export default function OffersPage() {
     'from-cyan-600 via-teal-600 to-emerald-500',
   ];
 
+  const offersSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'OfferCatalog',
+    name: 'عروض وباقات تجهيز المناظير والأجهزة الطبية | ENTITY Medical',
+    url: 'https://www.entitymedicalegypt.com/offers',
+    numberOfItems: offers.length,
+    itemListElement: offers.map((offer, index) => ({
+      '@type': 'Offer',
+      position: index + 1,
+      name: offer.title,
+      description: offer.description,
+      category: offer.category,
+      priceCurrency: 'EGP',
+      availability: 'https://schema.org/InStock',
+      seller: {
+        '@type': 'Organization',
+        name: 'ENTITY Medical Devices Egypt',
+      },
+    })),
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-slate-100/60 text-[#1B2848]" dir="rtl">
       <SiteHeader />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(offersSchema) }}
+      />
 
       <main className="flex-1 pt-24 pb-20 relative">
         {/* ============================================================
@@ -447,7 +474,7 @@ export default function OffersPage() {
                   </button>
 
                   <a
-                    href="tel:+201017400030"
+                    href={`tel:${siteConfig.phoneIntl}`}
                     className="bg-white/10 hover:bg-white/20 text-white font-bold px-7 py-3.5 rounded-xl border border-white/20 transition-all inline-flex items-center gap-2 text-sm sm:text-base"
                   >
                     <PhoneCall size={18} className="text-cyan-400" />

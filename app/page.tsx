@@ -6,7 +6,8 @@ import { SiteFooter } from '@/app/components/site-footer';
 import { SiteHeader } from '@/app/components/site-header';
 import { WhatsAppIcon } from '@/app/components/whatsapp-icon';
 import { QuoteTrigger } from '@/app/components/quote-trigger';
-import { featuredProducts, products } from '@/app/data/products';
+import { featuredProducts } from '@/app/data/products';
+import { productSummaries } from '@/app/data/product-summaries';
 
 const advantages = [
   { icon: ShieldCheck, title: 'فحص تشغيلي موثّق', text: 'كل جهاز يمر باختبار كامل قبل التسليم للتأكد من الصورة والإضاءة والتوصيلات.' },
@@ -95,7 +96,7 @@ export default function Home() {
 
       <section className="home-stats bg-[#07192c] py-14 text-white">
         <div className="home-stats-grid container mx-auto grid gap-4 px-4 sm:grid-cols-3 lg:px-6">
-          <div className="home-stat-card"><strong className="font-museo block text-4xl font-black text-cyan-300">{products.length}+</strong><span className="mt-2 block text-sm text-slate-300">جهاز ومستلزم ضمن منتجاتنا</span></div>
+          <div className="home-stat-card"><strong className="font-museo block text-4xl font-black text-cyan-300">{productSummaries.length}+</strong><span className="mt-2 block text-sm text-slate-300">جهاز ومستلزم ضمن منتجاتنا</span></div>
           <div className="home-stat-card"><strong className="font-museo block text-4xl font-black text-cyan-300">100%</strong><span className="mt-2 block text-sm text-slate-300">فحص تشغيلي قبل التسليم</span></div>
           <div className="home-stat-card"><strong className="font-museo block text-4xl font-black text-cyan-300">24/7</strong><span className="mt-2 block text-sm text-slate-300">استقبال طلبات واستفسارات العملاء</span></div>
         </div>

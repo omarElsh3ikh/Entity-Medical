@@ -10,10 +10,30 @@ export const metadata: Metadata = {
 
 const brochureUrl = '/brochure/entity-medical-brochure.pdf';
 
+const documentSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'DigitalDocument',
+  name: 'بروشور ENTITY Medical للأجهزة والمناظير الطبية 2026',
+  url: 'https://www.entitymedicalegypt.com/brochure',
+  encodingFormat: 'application/pdf',
+  fileFormat: 'application/pdf',
+  inLanguage: 'ar-EG',
+  author: {
+    '@type': 'Organization',
+    name: 'ENTITY Medical Devices Egypt',
+  },
+  description: 'الكتالوج الطبي الشامل لأنظمة المناظير الجراحية 4K، مصادر الإضاءة، الكاميرات، والمستلزمات الطبية لعام 2026.',
+};
+
 export default function BrochurePage() {
   return (
     <main className="min-h-screen bg-[#edf5fa] text-slate-900 flex flex-col" dir="rtl">
       <SiteHeader />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(documentSchema) }}
+      />
       
       {/* Deep Surgical Navy Hero */}
       <section className="pt-32 pb-16 relative overflow-hidden bg-gradient-to-b from-[#071322] via-[#0c1e36] to-[#071322] border-b border-cyan-500/20 shadow-2xl">
@@ -96,7 +116,7 @@ export default function BrochurePage() {
             >
               <div className="p-12 text-center bg-slate-50 h-full flex flex-col items-center justify-center">
                 <img 
-                  src="/brochure/cover.png" 
+                  src="/brochure/cover.webp" 
                   alt="غلاف بروشور ENTITY Medical" 
                   className="max-w-2xl w-full rounded-2xl shadow-xl border border-slate-200 mb-8" 
                 />

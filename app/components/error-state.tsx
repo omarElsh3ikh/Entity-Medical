@@ -1,7 +1,6 @@
 'use client';
 
 import { ArrowLeft, Home, RefreshCw, Search, ShieldCheck } from 'lucide-react';
-import Image from 'next/image';
 import Link from 'next/link';
 import { EntityWordmark } from '@/app/components/entity-wordmark';
 import { WhatsAppIcon } from '@/app/components/whatsapp-icon';
@@ -24,7 +23,7 @@ export function ErrorState({ code, title, description, onRetry }: ErrorStateProp
       <section className="error-card" aria-labelledby="error-title">
         <Link className="error-card__brand" href="/" aria-label="العودة إلى الصفحة الرئيسية">
           <span className="error-card__logo-wrap">
-            <Image src="/brand/entity-icon.webp" alt="" width={40} height={40} priority />
+            <img src="/brand/entity-icon.webp" alt="" width={40} height={40} />
           </span>
           <span>
             <EntityWordmark />
